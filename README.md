@@ -63,7 +63,7 @@ How to use the application
 Screenshot
 
 
-![War Card Game](screenshot .png)
+![War Card Game](Screenshot.png)
 
 Known issues / limitations 
 
