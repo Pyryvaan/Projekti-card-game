@@ -60,7 +60,7 @@ How to use the application
 
     Click Restart to start a new game. 
 
-Screenshots 
+Screenshot.png
 
 
 Known issues / limitations 
