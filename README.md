@@ -60,10 +60,7 @@ How to use the application
 
     Click Restart to start a new game. 
 
-Screenshot
 
-
-![War Card Game](Screenshot.png)
 
 Known issues / limitations 
 
